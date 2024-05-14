@@ -6,7 +6,7 @@ def fibonacci(num):
         else:
             fibonacci_lista.append(b)
             a,b = b,a+b
-resultado = fibonacci(110)
+resultado = fibonacci(150)
 print(resultado)
         
           
